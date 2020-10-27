@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 26 Oct 2020 11:56:34 at https://curso.adonabella.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://curso.adonabella.com/ -O1 "C:\Meus Sites\cilios" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:57:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): launcher.hotmart.com/launcher.js
+11:57:28	Error: 	"Not Found" (404) at link https://curso.adonabella.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 68 links scanned, 66 files written (3034233 bytes overall) [2684653 bytes received at 49715 bytes/sec], 535367 bytes transferred using HTTP compression in 17 files, ratio 22%, 3.6 requests per connection
+(1 errors, 1 warnings, 0 messages)

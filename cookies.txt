@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.assets-landingi.com	TRUE	/	FALSE	1999999999	__cfduid	def035025874ccb0811a72c346e253e721603724218
+styles.assets-landingi.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+curso.adonabella.com	TRUE	/	FALSE	1999999999	PHPSESSID	tk6vc1rvtiipst44aqvooeikgisoudtm
+curso.adonabella.com	TRUE	/	FALSE	1999999999	stg-tracker	deleted
+
