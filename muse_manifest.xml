@@ -1,0 +1,57 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="design4dj.com" resolutions="1x" timestamp="1487152883172">
+  <folder name="css">
+    <file name="site_global.css" crc="76524001"/>
+    <file name="index.css" crc="358929991" ref="index"/>
+    <file name="nomq_index.css" crc="429017311" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-bold-webfont.woff" crc="218980517"/>
+    <file name="montserrat-bold-webfont.eot" crc="4208353868"/>
+    <file name="montserrat-bold-webfont.svg" crc="4129020171"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u1942.php" crc="75843856" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background_photo.png" crc="3899837331" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1958-17.png" crc="504143769" ref="index"/>
+    <file name="u1958-17-r.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-m.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-fs.png" crc="504143769" ref="index"/>
+    <file name="btn_close.png" crc="453292589" ref="index"/>
+    <file name="btn_close-u1830-r-fr.png" crc="518962482" ref="index"/>
+    <file name="u1958-172.png" crc="504143769" ref="index"/>
+    <file name="u1958-17-r2.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-m2.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-fs2.png" crc="504143769" ref="index"/>
+    <file name="u1958-173.png" crc="504143769" ref="index"/>
+    <file name="u1958-17-r3.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-m3.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-fs3.png" crc="504143769" ref="index"/>
+    <file name="u1958-174.png" crc="504143769" ref="index"/>
+    <file name="u1958-17-r4.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-m4.png" crc="3820341920" ref="index"/>
+    <file name="u1958-17-fs4.png" crc="504143769" ref="index"/>
+    <file name="btn_close-u1830-fr.png" crc="4050864626" ref="index"/>
+    <file name="btn_close-u1830-r-fr2.png" crc="229382628" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3783151314" seo="true" mt="1487152863671" redirect="true"/>
+</manifest>
